@@ -1,0 +1,133 @@
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.exe.config
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.exe
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.pdb
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.exe
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.pdb
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormTambah.resources
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\MySql.Data.dll
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\Google.Protobuf.dll
+C:\Users\Arif\source\repos\ArtRock\ArtRock\bin\Debug\MySql.Data.xml
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormHapus.resources
+C:\Users\Arif\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdateAwal.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\ArtRock.exe.config
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\ArtRock.exe
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\ArtRock.pdb
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\MySql.Data.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\Google.Protobuf.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\bin\Debug\MySql.Data.xml
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormHapus.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdateAwal.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormTambah.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.exe
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.pdb
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\ArtRock\obj\Debug\ArtRock.FormTampil.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormHapus.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormUpdateAwal.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormTambah.resources
+D:\kuliah\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+D:\kuliah\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+D:\kuliah\ArtRock\obj\Debug\ArtRock.exe
+D:\kuliah\ArtRock\obj\Debug\ArtRock.pdb
+D:\kuliah\ArtRock\obj\Debug\ArtRock.FormTampil.resources
+D:\kuliah\ArtRock\bin\Debug\ArtRock.exe.config
+D:\kuliah\ArtRock\bin\Debug\ArtRock.exe
+D:\kuliah\ArtRock\bin\Debug\ArtRock.pdb
+D:\kuliah\ArtRock\bin\Debug\MySql.Data.dll
+D:\kuliah\ArtRock\bin\Debug\Google.Protobuf.dll
+D:\kuliah\ArtRock\bin\Debug\MySql.Data.xml
+D:\kuliah\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+C:\Users\bayum\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.exe.config
+C:\Users\bayum\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.exe
+C:\Users\bayum\source\repos\ArtRock\ArtRock\bin\Debug\ArtRock.pdb
+C:\Users\bayum\source\repos\ArtRock\ArtRock\bin\Debug\Google.Protobuf.dll
+C:\Users\bayum\source\repos\ArtRock\ArtRock\bin\Debug\MySql.Data.xml
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormHapus.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormTampil.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUpdateAwal.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.FormTambah.resources
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.exe
+C:\Users\bayum\source\repos\ArtRock\ArtRock\obj\Debug\ArtRock.pdb
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.exe
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.pdb
+E:\artrock\artrockvs\ArtRock\bin\Debug\ArtRock.exe.config
+E:\artrock\artrockvs\ArtRock\bin\Debug\ArtRock.exe
+E:\artrock\artrockvs\ArtRock\bin\Debug\ArtRock.pdb
+E:\artrock\artrockvs\ArtRock\bin\Debug\MetroFramework.Design.dll
+E:\artrock\artrockvs\ArtRock\bin\Debug\MetroFramework.dll
+E:\artrock\artrockvs\ArtRock\bin\Debug\MetroFramework.Fonts.dll
+E:\artrock\artrockvs\ArtRock\bin\Debug\MySql.Data.dll
+E:\artrock\artrockvs\ArtRock\bin\Debug\Google.Protobuf.dll
+E:\artrock\artrockvs\ArtRock\bin\Debug\MySql.Data.xml
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+E:\artrock\artrockvs\ArtRock\bin\Debug\Transitions.dll
+E:\artrock\artrockvs\ArtRock\obj\Debug\ArtRock.login.resources
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.exe.config
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.exe
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.pdb
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.Design.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.Fonts.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\MySql.Data.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\Transitions.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\Google.Protobuf.dll
+D:\ArtRock\artrockvs\ArtRock\bin\Debug\MySql.Data.xml
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.login.resources
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.exe
+D:\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.pdb
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.exe.config
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.exe
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\ArtRock.pdb
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.Design.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\MetroFramework.Fonts.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\MySql.Data.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\Transitions.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\Google.Protobuf.dll
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\bin\Debug\MySql.Data.xml
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csprojAssemblyReference.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUpdate.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.FormUtama.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.login.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.Properties.Resources.resources
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.GenerateResource.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.csproj.CopyComplete
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.exe
+D:\kuliah\Semester 5\Pemrograman Platform Khusus\Project\ArtRock\artrockvs\ArtRock\obj\Debug\ArtRock.pdb

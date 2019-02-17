@@ -1,0 +1,28 @@
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\ModernUIProject.exe
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\ModernUIProject.pdb
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.csprojResolveAssemblyReference.cache
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Properties.Resources.resources
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.csproj.GenerateResource.Cache
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.exe
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.pdb
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\MetroFramework.Design.dll
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\MetroFramework.dll
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\MetroFramework.Fonts.dll
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\Transitions.dll
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.MainForm.resources
+c:\users\pc-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+C:\Users\PC-1\Documents\Visual Studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\ModernUIProject.exe.config
+C:\Users\PC-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\Resources\mysqldump.exe
+C:\Users\PC-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Backup.resources
+C:\Users\PC-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\bin\Debug\Resources\mysql.exe
+C:\Users\PC-1\documents\visual studio 2013\Projects\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Restore.resources
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.csprojAssemblyReference.cache
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.MainForm.resources
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.Properties.Resources.resources
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.csproj.GenerateResource.cache
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.csproj.CoreCompileInputs.cache
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.exe
+E:\artrock\framework\ModernUIProject-Database-Connection\ModernUIProject\ModernUIProject\obj\Debug\ModernUIProject.pdb
